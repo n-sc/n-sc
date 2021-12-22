@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 **Currently engaged in...**
 
-- 🔐 cyber security stuff
+- 🔐 cyber security
 - 🌐 web development
 - 📉 data analysis and plotting
 

@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 - 🔐 cyber security
 - 🌐 web development
-- 📉 data analysis and plotting
+- ⚙️ infrastructure and test automation
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=nick-nsc&count_private=true&theme=midnight-purple" />
 
@@ -32,3 +32,4 @@ Here are some ideas to get you started:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ansible/ansible.png"></code>

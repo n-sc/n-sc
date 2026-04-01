@@ -12,24 +12,28 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Hi, I'm Nick and i am from Germany 🇩🇪 
+### Hi, I'm Nick and I am from Germany 🇩🇪 
 
 ----------------------------
 
-**Currently engaged in...**
+**I'm currently engaged in...**
 
-- 🔐 cyber security
-- 🌐 web development
-- ⚙️ infrastructure and test automation
+- 🔐 Cyber security & penetration testing
+- ⚙️ Infrastructure (IaC) and test automation
+- 📱 Mobile app development
+
+**... using these languages:**  
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/refs/heads/main/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/refs/heads/main/topics/dart/dart.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/refs/heads/main/topics/cpp/cpp.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/refs/heads/main/topics/javascript/javascript.png"></code>
+
+**... and these tools:**  
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/refs/heads/main/topics/ansible/ansible.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/refs/heads/main/topics/kubernetes/kubernetes.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/refs/heads/main/topics/docker/docker.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/refs/heads/main/topics/flutter/flutter.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/refs/heads/main/topics/react/react.png"></code>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=n-sc&count_private=true&theme=midnight-purple" />
-
-**Languages and Tools:**  
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/cpp/cpp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ansible/ansible.png"></code>
